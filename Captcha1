@@ -15,6 +15,7 @@ public class Captcha1
      if(b==a)
      {
       System.out.println("Successfully Authenticated!!!");
+     System.out.println("Captcha authenticate");
      }
      if(b!=a){
     do{  
